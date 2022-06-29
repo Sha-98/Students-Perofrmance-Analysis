@@ -1,7 +1,7 @@
 # Students-Perofrmance-Analysis
 
 
- <img src="https://user-images.githubusercontent.com/89126969/176466781-b0d1bf8f-dcb2-4f0a-893a-e1fd93d40ffa.png" width="800">
+ <img src="https://user-images.githubusercontent.com/89126969/176467911-3b59b0e6-37ff-4e92-97cd-781149024896.png" width="800">
 
  
 
