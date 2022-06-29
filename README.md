@@ -31,7 +31,8 @@ But the draw useful insights and create the data set model ready we need to add 
 
 •	**Inferential Statistics**
 
- 
+ <img src="https://user-images.githubusercontent.com/89126969/176438662-698d0bb7-6e9b-4631-8041-ae9114aa04f1.png" width="800">
+
 
 •	**Correlation between numerical features**
 
