@@ -1,6 +1,10 @@
 # Students-Perofrmance-Analysis
 
 
+ <img src="https://user-images.githubusercontent.com/89126969/176466460-d4a43fd4-e260-4b2c-af38-f00e08240634.png" width="800">
+ 
+ 
+
 ## Context
 
 There is huge population of a country or a state going to school. And there are numerus factors affecting the performance of students in the examination. 
