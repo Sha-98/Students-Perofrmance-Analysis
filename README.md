@@ -29,12 +29,12 @@ Talking about any null or invalid values in our dataset, we have no null or inva
 But the draw useful insights and create the data set model ready we need to add some more features to it which we can create using the current features by applying some mathematical conditions on them.
 
 
-•	### **Inferential Statistics**
+•	 **Inferential Statistics**
 
  <img src="https://user-images.githubusercontent.com/89126969/176438662-698d0bb7-6e9b-4631-8041-ae9114aa04f1.png" width="400">
 
 
-•	### **Correlation between numerical features**
+•	 **Correlation between numerical features**
 
  <img src="https://user-images.githubusercontent.com/89126969/176438956-c196428a-61cf-4fdc-8939-d7d218a5c87e.png" width="400">
 
@@ -43,7 +43,7 @@ But the draw useful insights and create the data set model ready we need to add 
 After visualizing the data as heatmap we can see that the marks of a student in the three subjects are kind of related stating that if a student is performing well in any one subject there are high chances that he/she will perform well in other two also. 
 Though in general cases we replace the features have high correlation coefficient but here we cannot remove the marks of any subject. This correlation was a good insight and will be playing an important role in the prediction too.
 
-•	### **Score Comparison on Gender**
+•	 **Score Comparison on Gender**
 
  <img src="https://user-images.githubusercontent.com/89126969/176439453-ee120a28-95ac-4fb3-9e77-9e6d36805802.png" width="400"> 
 
@@ -51,14 +51,14 @@ Though in general cases we replace the features have high correlation coefficien
 From the above pivot table, we can say that there is not much of a gender biased results in any subject. Both the boys and the girls are scoring almost similar except in maths where the minimum score of girls is 0 but for boys its 27.
 
 
-•	### **Effect of Lunch on Scores **
+•	 **Effect of Lunch on Scores **
 
  <img src="https://user-images.githubusercontent.com/89126969/176439577-0a7a8f3c-f9b0-4cc1-bc5e-94ee3b7e527d.png" width="400">
 
 From the pivot table comparing the scores and lunch of the students we can say that students taking standard lunch are scoring more that those taking free/reduced lunch. Increasing the quality of lunch can improve the result of the students in the examination.
 
 
-•	### **Effect of Test Preparation Course on Results**
+•	 **Effect of Test Preparation Course on Results**
 
  <img src="https://user-images.githubusercontent.com/89126969/176439660-ae92f4c1-b20c-44cf-abf8-505558813662.png" width="400">
 
@@ -66,7 +66,7 @@ From the pivot table comparing the scores and lunch of the students we can say t
 From the pivot table comparing the influence of completing the pre-test preparation course or no says that if the student has taken and completed the course he/she is more likely to score more than those students who have not taken the course. Institute must motivate students to take this course in order to improve the results.
 
 
-•	### **Features added during analysis**
+•	 **Features added during analysis**
 
 To make the data Model ready and to get information about the results and pass/fail of a student. Following are the features added to our dataset.
 
@@ -84,17 +84,17 @@ o	**Grades**: Grades based on the percentage scored by the student
 ## Some Important Visualizations 
 
 
-•	### **Pair Plot**
+•	 **Pair Plot**
 
  <img src="https://user-images.githubusercontent.com/89126969/176439821-dd63f4f1-d235-447b-957f-f45dac7af7ca.png" width="400">
 
 
-•	### **Distribution of total scores of students**
+•	 **Distribution of total scores of students**
  
  <img src="https://user-images.githubusercontent.com/89126969/176439894-808ed551-ac75-401c-84b1-d14880bd9cfd.png" width="400">
 
 
-•	### **Pass/Fail Ratio in Class**
+•	 **Pass/Fail Ratio in Class**
 
  <img src="https://user-images.githubusercontent.com/89126969/176439959-ed9e7772-a8bb-47cc-a512-d475f72a62bd.png" width="400">
 
