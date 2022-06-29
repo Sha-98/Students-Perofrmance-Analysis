@@ -10,7 +10,7 @@ An educational institution need to monitor the students performance in the exami
 
 The data set consists of the following features influencing the pass/fail examination result of the student.
 
-*Gender*:  Gender of the student
+* Gender *:  Gender of the student
 *Race/Ethnicity*: Race or Ethnicity of the student’s family
 ###Parental level of Education: Education level of parents
 ###Lunch: Type of lunch consumed by the student out of two categories namely “Standard” and “Free/Reduced”.
