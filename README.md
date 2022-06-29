@@ -1,25 +1,27 @@
 # Students-Perofrmance-Analysis
 
 
-Context
+## Context
+
 There is huge population of a country or a state going to school. And there are numerus factors affecting the performance of students in the examination. 
 An educational institution need to monitor the students performance in the examination and various factors influencing the results of students. The main motive of this analysis is to encounter the features supports the good results and affecting them and based on the results take actions to have better results in future.
 
-Content
+## Content
+
 The data set consists of the following features influencing the pass/fail examination result of the student.
 
-Gender:  Gender of the student
-Race/Ethnicity: Race or Ethnicity of the student’s family
-Parental level of Education: Education level of parents
-Lunch: Type of lunch consumed by the student out of two categories namely “Standard” and “Free/Reduced”.
-Test Preparation Course: Pre-test course offered by the institution for test preparation taken and completed or not.
-Math Score:  Marks scored by the student in Mathematics out of 100.
-Reading Score: Marks scored by the student in Reading out of 100.
-Writing Score: Marks scored by the student in Writing out of 100.
+*Gender*:  Gender of the student
+*Race/Ethnicity*: Race or Ethnicity of the student’s family
+###Parental level of Education: Education level of parents
+###Lunch: Type of lunch consumed by the student out of two categories namely “Standard” and “Free/Reduced”.
+###Test Preparation Course: Pre-test course offered by the institution for test preparation taken and completed or not.
+###Math Score:  Marks scored by the student in Mathematics out of 100.
+###Reading Score: Marks scored by the student in Reading out of 100.
+###Writing Score: Marks scored by the student in Writing out of 100.
 
 The dataset has total of 1000 rows and 8 features. Out of these 8 features we have three numerical features and 5 categorical features. 
 
-Exploratory Data Analysis
+## Exploratory Data Analysis
 Talking about any null or invalid values in our dataset, we have no null or invalid values. The data is cleaned in this manner.
 But the draw useful insights and create the data set model ready we need to add some more features to it which we can create using the current features by applying some mathematical conditions on them.
 
